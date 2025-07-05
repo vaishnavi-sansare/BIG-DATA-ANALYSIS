@@ -1,4 +1,3 @@
-# Pyspark_netflix_dataset_project
 # 📊 Netflix Dataset Big Data Analysis with PySpark
 
 This project demonstrates **scalable big data processing and analysis** using **Apache Spark (PySpark)** on a real-world Netflix dataset. The goal is to showcase how to handle large datasets, perform robust data cleaning, and extract valuable insights efficiently.
