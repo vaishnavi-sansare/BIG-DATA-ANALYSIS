@@ -1,10 +1,10 @@
-# 📊 Netflix Dataset Big Data Analysis with PySpark
+# Netflix Dataset Big Data Analysis with PySpark
 
 This project demonstrates **scalable big data processing and analysis** using **Apache Spark (PySpark)** on a real-world Netflix dataset. The goal is to showcase how to handle large datasets, perform robust data cleaning, and extract valuable insights efficiently.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** [Netflix Movies and TV Shows dataset](https://www.kaggle.com/shivamb/netflix-shows)
 - Contains metadata for thousands of Netflix Movies and TV Shows, including:
@@ -21,7 +21,7 @@ This project demonstrates **scalable big data processing and analysis** using **
 
 ---
 
-## ✅ Objectives
+## Objectives
 
 - Perform **end-to-end data analysis** on a large dataset using PySpark.
 - Clean the dataset by:
@@ -38,14 +38,14 @@ This project demonstrates **scalable big data processing and analysis** using **
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 - **Apache Spark (PySpark)** – for distributed big data processing.
 - **Python** – as the main programming language.
 - **Jupyter Notebook** – for interactive analysis and visual exploration.
 ---
 
-## 🔍 Key Steps
+## Key Steps
 
 1. **Load** the dataset into a Spark DataFrame.
 2. **Inspect** for missing values and data quality issues.
