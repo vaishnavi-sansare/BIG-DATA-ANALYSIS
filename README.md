@@ -1,4 +1,15 @@
 # Netflix Dataset Big Data Analysis with PySpark
+*COMPANY* : CODTECH IT SOLUTION
+
+*NAME*: VAISHNAVI SUDHIR SANSARE
+
+*INTERN ID*: CITS0D56
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 This project demonstrates **scalable big data processing and analysis** using **Apache Spark (PySpark)** on a real-world Netflix dataset. The goal is to showcase how to handle large datasets, perform robust data cleaning, and extract valuable insights efficiently.
 
