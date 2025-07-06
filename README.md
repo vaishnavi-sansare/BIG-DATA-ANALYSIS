@@ -74,3 +74,9 @@ This project demonstrates **scalable big data processing and analysis** using **
 
 ---
 
+<img width="1429" height="865" alt="Image" src="https://github.com/user-attachments/assets/596e2e4e-84dd-4271-aef6-8fcbf055c655" />
+<img width="1424" height="864" alt="Image" src="https://github.com/user-attachments/assets/f52a5a58-53d7-4a4c-bcd0-dc731525ee94" />
+<img width="1420" height="865" alt="Image" src="https://github.com/user-attachments/assets/12503613-a09a-4665-a36e-c052c6e8233d" />
+<img width="1441" height="869" alt="Image" src="https://github.com/user-attachments/assets/e9445455-4d1f-4d15-b3e4-054157f62f1d" />
+<img width="1451" height="814" alt="Image" src="https://github.com/user-attachments/assets/2a40239e-8266-46a0-b9f6-679f58b81398" />
+
